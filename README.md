@@ -1,4 +1,4 @@
-# Stock Market Predictor using LSTM
+# Efficient Stock Forecasting using LSTM
 ![image](https://github.com/kinjal30/Stock-Prediction-using-Keras-LSTM/assets/46399913/616f8037-047b-4856-9ff2-fb551b1e4799)
 
 
